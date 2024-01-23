@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pariwisata Kabupaten tangerang
+    </title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="navbar">
+        <ul class="menu">
+            <li><a href="#">Beranda</a></li>
+            <li><a href="#">Berita</a></li>
+            <li><a href="#">Profil</a></li>
+            <li><a href="#">Statistik</a></li>
+        </ul>
+       
+    </div>
+    <div class="img">
+        <img srcset="#">
+    </div>
+    <div class="judul">
+     <h1>Selamat Datang</h1>
+        <h2>Di website pariwisata Kabupaten Tangerang</h2>
+        <br>
+        <!-- <div class="images">
+        <img src="kabupaten tang gerang.png">
+        </div> -->
+    </div>
+    
+    <div class="subjudul">
+    <h3>selamat datang di pariwisata Kabupaten Tangerang,disini kalian dapat mencari pariwisata apa yang ingin kalian cari</h3>
+    </div>
+    <div class="welcum">
+        <h1>Pilihan destinasi</h1>
+     <div class="search">
+            <select>
+                <option value="#">Pilih Daerah</option>
+                <option value="#">Balaraja</option>
+                <option value="#">Cikupa</option>
+                <option value="#">Cisoka</option>
+                <option value="#">Cisauk</option>
+                <option value="#">Curug</option>
+                <option value="#">Gunung Kaler</option>
+                <option value="#">Jambe</option>
+                <option value="#">Jayanti</option>
+                <option value="#">Kelapa Dua</option>
+                <option value="#">Kemiri</option>
+                <option value="#">Kresek</option>
+                <option value="#">Kronjo</option>
+                <option value="#">Kosambi</option>
+                <option value="#">Legok</option>
+                <option value="#">Mauk</option>
+                <option value="#">Mekarbaru</option>q
+                <option value="#">Pagedangan</option>
+                <option value="#">Pakuhaji</option>
+                <option value="#">Panongan</option>
+                <option value="#">Pasar Kemis</option>
+                <option value="#">Rajeg</option>
+                <option value="#">Sepatan</option>
+                <option value="#">Sepatan Timur</option>
+                <option value="#">Sindang Jaya</option>
+                <option value="#">Solear</option>
+                <option value="#">Sukadiri</option>
+                <option value="#">Suka Mulya</option>
+                <option value="#">Teluk Naga</option>
+                <option value="#">Tigaraksa</option>
+              
+            </select>
+            <input type="submit">
+            
+            
+        </div>
+    </div>
+    <br>
+    <div class="contact">
+        <h5> 
+            <ul>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">About</a></li>
+            </ul>
+        </h5>
+        
+    </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
